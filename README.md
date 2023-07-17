@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm JUAN SEBASTIAN CASTELLANOS</h1>
 <h3 align="center">I am an Electronic Engineer, Fullstack Developer</h3>
 
+- 🔭 I’m currently working on **Hewlett-Packard**
+
+- 🌱 I’m currently learning **.Net**
+
+- 💬 Ask me about **React, React-Native,NodeJs**
+
+- 📫 How to reach me **castellanospsebastian@gmail.com**
+
+- 📄 Know about my experiences [Soy un ingeniero electrónico especializado en desarrollo de software, tanto en el ámbito backend como frontend. He adquirido experiencia en el diseño e implementación de soluciones IoT a través de aplicaciones de backend para web y dispositivos móviles. Actualmente, formo parte del equipo de desarrollo de Hewlett-Packard Company, donde me desempeño como desarrollador fullstack utilizando tecnologías como .NET y React. En mi rol actual, me dedico al desarrollo y mantenimiento de herramientas para venta mayorista. Trabajo en estrecha colaboración con equipos interdisciplinarios para integrar sistemas de almacenamiento y visualización de datos, garantizando una experiencia de usuario fluida y eficiente. Además, me apasiona seguir aprendiendo y manteniéndome actualizado sobre las últimas tendencias tecnológicas, lo que me permite aportar soluciones innovadoras a los proyectos en los que participo.](Soy un ingeniero electrónico especializado en desarrollo de software, tanto en el ámbito backend como frontend. He adquirido experiencia en el diseño e implementación de soluciones IoT a través de aplicaciones de backend para web y dispositivos móviles. Actualmente, formo parte del equipo de desarrollo de Hewlett-Packard Company, donde me desempeño como desarrollador fullstack utilizando tecnologías como .NET y React. En mi rol actual, me dedico al desarrollo y mantenimiento de herramientas para venta mayorista. Trabajo en estrecha colaboración con equipos interdisciplinarios para integrar sistemas de almacenamiento y visualización de datos, garantizando una experiencia de usuario fluida y eficiente. Además, me apasiona seguir aprendiendo y manteniéndome actualizado sobre las últimas tendencias tecnológicas, lo que me permite aportar soluciones innovadoras a los proyectos en los que participo.)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/juan-sebastian-castellanos-29463716a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-sebastian-castellanos-29463716a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
